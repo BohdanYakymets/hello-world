@@ -130,6 +130,7 @@ if __name__ == '__main__':
                 print(exc)
             else:
                 print(f'{value}x^{power}')
+         print("Hello, World")
 
 
 
